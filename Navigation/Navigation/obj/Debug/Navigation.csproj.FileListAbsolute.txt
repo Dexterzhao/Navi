@@ -1,0 +1,8 @@
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.Cache
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\bin\Debug\Navigation.exe
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\bin\Debug\Navigation.pdb
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\obj\Debug\Navigation.Form1.resources
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\obj\Debug\Navigation.exe
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\obj\Debug\Navigation.pdb
+E:\DataStructure\课程设计\Navi\Navigation\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache
